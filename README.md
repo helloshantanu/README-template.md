@@ -86,4 +86,10 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Inspiration
 * etc
 
+
+## Credits
+
+There have been a great deal of contributors to this project, not only those who have committed valuable code, but even the folks who gave valuable input in discussions on PR's, or provided samples. Some samples might not even have been used, but they will still have informed the directions later taken.
+I thank all the contributors for your valuable time.
+                
                 
